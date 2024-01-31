@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083104768954",
+    "project_id": "qzzp-app",
+    "storage_bucket": "qzzp-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083104768954:android:7e7d8f4a7a583c6c402383",
+        "android_client_info": {
+          "package_name": "me.shagerdi.qzzp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083104768954-k3c5oqehbhsgdfdl3gkkj9l33bpfuseh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArFZTN9SH3zCYMFMUsr-gu_qfW4IdrUTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083104768954-k3c5oqehbhsgdfdl3gkkj9l33bpfuseh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
